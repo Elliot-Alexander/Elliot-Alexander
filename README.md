@@ -11,7 +11,7 @@ I'm a full stack developer, specialising in building engaging, performant and sc
 
 
 ## 🛠 Skills
-Frontend: Javascript, Typescript, Vue, React, TailwindCSS 
+Frontend: Javascript, Typescript, TailwindCSS, Vue, React, Capacitor, React Native
 
 Backend: Javascript, Typescript, Java, PHP (Laravel)
 
