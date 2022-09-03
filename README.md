@@ -7,7 +7,7 @@ I'm a full stack developer, specialising in building engaging, performant and sc
 
 😄 Pronouns: he/him
 
-🌱 I’m currently learning Kubernetes, and my cloud platform certifications
+🌱 I’m currently learning Kubernetes, and getting my cloud platform certifications
 
 
 ## 🛠 Skills
