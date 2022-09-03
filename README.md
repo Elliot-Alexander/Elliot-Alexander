@@ -1,5 +1,5 @@
-### Hi there 👋
-### I'm Elliot 😄
+# Hi there 👋
+## I'm Elliot 😄
 
 
 ## 🚀 About Me
