@@ -11,6 +11,7 @@ I'm a full stack developer, specialising in building engaging, performant and sc
 
 🌱 I’m currently learning Kubernetes, and getting my cloud platform certifications
 
+🏢 Owner of [Kasa](https://kasa.au)
 
 ## 🛠 Skills
 
